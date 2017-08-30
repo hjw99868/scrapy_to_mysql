@@ -1,8 +1,8 @@
+This spider is just like easy_spider, but the data will be written in a MySql database
+
+The specfic code is in pipelines.py
+
 ### How to run it
-
-* Copy the code
-
-* As the guide book, create database douban and table doubanmoive
 
 * Use `scrapy crawl doubanmoive`
 
