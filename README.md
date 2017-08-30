@@ -4,6 +4,6 @@ The specfic code is in pipelines.py
 
 ### How to run it
 
-* Use `scrapy crawl doubanmoive`
+* Use `scrapy crawl doubanmovie`
 
 * you can get data in json and a database
